@@ -1,0 +1,24 @@
+C:\Users\lucas\OneDrive - Malta College of Arts, Science & Technology\Level 6\OOP\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\bin\Debug\Lucas_Said_6.1A_HomeAssignment.exe.config
+C:\Users\lucas\OneDrive - Malta College of Arts, Science & Technology\Level 6\OOP\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\bin\Debug\Lucas_Said_6.1A_HomeAssignment.exe
+C:\Users\lucas\OneDrive - Malta College of Arts, Science & Technology\Level 6\OOP\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\bin\Debug\Lucas_Said_6.1A_HomeAssignment.pdb
+C:\Users\lucas\OneDrive - Malta College of Arts, Science & Technology\Level 6\OOP\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\obj\Debug\Lucas_Said_6.1A_HomeAssignment.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive - Malta College of Arts, Science & Technology\Level 6\OOP\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\obj\Debug\Lucas_Said_6.1A_HomeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive - Malta College of Arts, Science & Technology\Level 6\OOP\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\obj\Debug\Lucas_Said_6.1A_HomeAssignment.exe
+C:\Users\lucas\OneDrive - Malta College of Arts, Science & Technology\Level 6\OOP\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\obj\Debug\Lucas_Said_6.1A_HomeAssignment.pdb
+C:\Users\lucas\Desktop\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\obj\Debug\Lucas_Said_6.1A_HomeAssignment.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\obj\Debug\Lucas_Said_6.1A_HomeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\obj\Debug\Lucas_Said_6.1A_HomeAssignment.exe
+C:\Users\lucas\Desktop\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\obj\Debug\Lucas_Said_6.1A_HomeAssignment.pdb
+C:\Users\lucas\Desktop\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\bin\Debug\Lucas_Said_6.1A_HomeAssignment.exe.config
+C:\Users\lucas\Desktop\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\bin\Debug\Lucas_Said_6.1A_HomeAssignment.exe
+C:\Users\lucas\Desktop\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\bin\Debug\Lucas_Said_6.1A_HomeAssignment.pdb
+C:\Users\lucas\Desktop\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\bin\Debug\DataAccessLayer.exe
+C:\Users\lucas\Desktop\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\bin\Debug\DataAccessLayer.pdb
+C:\Users\lucas\Desktop\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\bin\Debug\DataAccessLayer.exe.config
+C:\Users\lucas\Desktop\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\obj\Debug\Lucas_Said_6.1A_HomeAssignment.csproj.CopyComplete
+C:\Users\lucas\Desktop\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\bin\Debug\DataLayer.exe
+C:\Users\lucas\Desktop\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\bin\Debug\ConnectionString.exe
+C:\Users\lucas\Desktop\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\bin\Debug\DataLayer.pdb
+C:\Users\lucas\Desktop\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\bin\Debug\DataLayer.exe.config
+C:\Users\lucas\Desktop\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\bin\Debug\ConnectionString.pdb
+C:\Users\lucas\Desktop\Home Assignment\Lucas_Said_6.1A_HomeAssignment\Lucas_Said_6.1A_HomeAssignment\bin\Debug\ConnectionString.exe.config
